@@ -4,10 +4,15 @@ E-Commerce, also known as electronic commerce or internet commerce, is an activi
 # Structure: 
 |  Folder  |   Structure  |     
 |:--------:|:------------:|
+| 0_Certicate | Sololearn and Hackerearth |
 | 1_Abstract | About application |
 | 2_Requirements | All requirements are here |
 | 3_Design | How to design |
 | 4_Implementations | Code is present over here |
+| 5_TestPlanAndOutput | output of the code |
+| 6_Report | all details |
+| 7_ImagesAndVideos | about its all images |
+| 8_Reference | seek help |
 
 
 # Badges:
